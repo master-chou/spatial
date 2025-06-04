@@ -1,0 +1,433 @@
+[    {
+    "id": 1,
+    "image": "47753468221_5d46809a0e_k.jpg",
+    "captions": [
+        "The person closest to the camera is facing the camera .",
+        "The person closest to the camera is facing sideways.",
+        "The person closest to the camera has his back to the camera.",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 2,
+    "image": "000000000003.jpg",
+    "captions": [
+        "The car closest to the camera is facing the same direction as the truck next to it.",
+        "The car closest to the camera is facing opposite direction as the truck next to it.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 3,
+    "image": "000000003748.jpg",
+    "captions": [
+        "The white door is facing the mirror above the sink",
+        "The white door is not facing the mirror above the sink",
+        "The white door is parallel to the plane on which the mirror sits.",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 4,
+    "image": "000000011413.jpg",
+    "captions": [
+        "The motorbikes are parked along the street parallel to the building they're parked in front of.",
+        "The motorbikes are parked along the street perpendicular to the building they're parked in front of.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 5,
+    "image": "000000017929.jpg",
+    "captions": [
+        "The two motorbikes are facing the same direction.",
+        "The two motorbikes are facing opposite directions.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 6,
+    "image": "000000022139.jpg",
+    "captions": [
+        "The woman in the picture is facing directly towards the camera.",
+        "The woman in the picture has her back to the direction of the camera.",
+        "The woman in the picture is facing sideways towards the camera.",
+        ""
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 7,
+    "image": "000000023744.jpg",
+    "captions": [
+        "Two giraffes walking in opposite directions.",
+        "One giraffe is walking towards the right side of the frame while the other is facing and walking towards the camera.",
+        "One giraffe is walking towards the left side of the frame while the other is walking away from the camera.",
+        "One giraffe is walking towards the left side of the frame while the other is facing and walking to the camera."
+    ],
+    "answer": 3,
+    "type": "object_orientation"
+},
+{
+    "id": 8,
+    "image": "000000027359.jpg",
+    "captions": [
+        "The suitcase is directly in front of the door.",
+        "The suitcase is on the right front of the door.",
+        "The suitcase is on the left front of the door.",
+        "The suitcase is behind the door."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 9,
+    "image": "000000037176.jpg",
+    "captions": [
+        "The sign with words '300' is on the same plane with the sign with words 'HILL'.",
+        "The sign with words '950' is on the same plane with the sign with words 'HILL'.",
+        "",
+        ""
+    ],
+    "answer": 0,
+    "type": "object_orientation"
+},
+{
+    "id": 10,
+    "image": "000000042583.jpg",
+    "captions": [
+        "The two men in the picture are facing away from the camera.",
+        "The two men in the picture are looking straight to the right.",
+        "The two men in the picture are looking straight to the left.",
+        "The two men in the picture are looking straight into the camera."
+    ],
+    "answer": 3,
+    "type": "object_orientation"
+},
+{
+    "id": 11,
+    "image": "000000042776.jpg",
+    "captions": [
+        "The zebra is heading straight to the right.",
+        "The zebra is heading straight towards the camera.",
+        "The zebra is heading straight to the left.",
+        "The zebra is heading away from the camera."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 12,
+    "image": "000000043224.jpg",
+    "captions": [
+        "The two players in the picture are facing the same direction.",
+        "The two players in the picture are facing opposite directions.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 13,
+    "image": "000000046179.jpg",
+    "captions": [
+        "The taxis in the picture are facing to the left.",
+        "The taxis in the picture are facing the camera.",
+        "The taxis in the picture are facing to the right.",
+        "The taxis in the picture are facing away from the camera."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 14,
+    "image": "000000046380.jpg",
+    "captions": [
+        "The man's eyes are facing in the opposite direction towards the television.",
+        "The man's eyes are facing towards the television.",
+        "The man's eyes are facing to the left of the TV.",
+        "The man's eyes are facing to the right of the TV."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 15,
+    "image": "000000047243.jpg",
+    "captions": [
+        "The people in the picture are looking to the left.",
+        "The people in the picture are looking away from the camera.",
+        "The people in the picture are looking straight at the camera.",
+        "The people in the picture are looking to the right."
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 16,
+    "image": "000000047310.jpg",
+    "captions": [
+        "Both giraffes face away from the camera.",
+        "Both giraffes look towards the camera.",
+        "Both giraffes look to the left.",
+        "Both giraffes look to the right."
+    ],
+    "answer": 3,
+    "type": "object_orientation"
+},
+{
+    "id": 17,
+    "image": "000000047580.jpg",
+    "captions": [
+        "The person turned sideways towards the camera.",
+        "The person is facing the camera.",
+        "The person is facing the left.",
+        "The person is facing the right."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 18,
+    "image": "000000048028.jpg",
+    "captions": [
+        "The cat is facing the camera.",
+        "The cat is facing the left.",
+        "The cat is facing the right.",
+        "The cat is facing away from the camera."
+    ],
+    "answer": 3,
+    "type": "object_orientation"
+},
+{
+    "id": 19,
+    "image": "000000049781.jpg",
+    "captions": [
+        "The cow on the right looks to the left.",
+        "The cow on the right looks to the right.",
+        "The cow on the right looks towards the camera.",
+        "The cow on the right faces away from the camera."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 20,
+    "image": "000000036752.jpg",
+    "captions": [
+        "The black cat looks towards the camera",
+        "The black cat faces away from the camera.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 21,
+    "image": "000000031198.jpg",
+    "captions": [
+        "Three birds are perching on a straight line.",
+        "The bird on the rightmost of the picture is perching on the highest position.",
+        "The leftmost bird in the picture is closest to the camera.",
+        "Three birds are the same distance from the camera."
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 22,
+    "image": "000000014350.jpg",
+    "captions": [
+        "The two trains are perpendicular.",
+        "The two trains are intersecting.",
+        "The two trains are parallel.",
+        ""
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 23,
+    "image": "000000000641.jpg",
+    "captions": [
+        "The bus faces away from the camera.",
+        "The bus is facing straight towards the camera.",
+        "The bus faces to the right.",
+        "The bus faces to the left."
+    ],
+    "answer": 3,
+    "type": "object_orientation"
+},
+{
+    "id": 24,
+    "image": "000000000872.jpg",
+    "captions": [
+        "The two people in the picture look in the same direction.",
+        "The two people in the picture have their backs to each other.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 25,
+    "image": "000000001063.jpg",
+    "captions": [
+        "The giraffe looks towards the camera.",
+        "The giraffe looks to the left.",
+        "The giraffe looks to the right.",
+        "The giraffe faces away from the camera."
+    ],
+    "answer": 0,
+    "type": "object_orientation"
+},
+{
+    "id": 26,
+    "image": "000000001103.jpg",
+    "captions": [
+        "All the birds in the picture look to the right.",
+        "All the birds in the picture look to the left.",
+        "All the birds in the picture look towards the camera.",
+        "All the birds in the picture face away from the camera."
+    ],
+    "answer": 0,
+    "type": "object_orientation"
+},
+{
+    "id": 27,
+    "image": "000000004754.jpg",
+    "captions": [
+        "The four zebras in the picture look to the left.",
+        "The four zebras in the picture look to the right.",
+        "The four zebras look towards the camera.",
+        "The four zebras in the picture face away from the camera."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 28,
+    "image": "000000015690.jpg",
+    "captions": [
+        "The two elephants in the picture are facing in opposite directions.",
+        "The two elephants in the picture are facing the same direction.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 29,
+    "image": "000000016716.jpg",
+    "captions": [
+        "The zebras in the picture are all turned sideways towards the camera.",
+        "The zebras in the image are all facing directly at the camera.",
+        "The left zebra is directly facing the camera, and the other two zebras are sideways facing the camera.",
+        ""
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 30,
+    "image": "000000031446.jpg",
+    "captions": [
+        "The fighters in the picture are all heading in the right direction.",
+        "The fighters in the picture are all heading in the left direction.",
+        "The fighters in the picture are all heading in the up direction.",
+        "The fighters in the picture are all heading in the down direction.."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 31,
+    "image": "000000004638.jpg",
+    "captions": [
+        "The child over the skateboard is facing the entrance of the building",
+        "The child over the skateboard is not facing the entrance of the building",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 32,
+    "image": "000000006896.jpg",
+    "captions": [
+        "Here two giraffes look to the left.",
+        "Here two giraffes look to the right.",
+        "Here two giraffes look towards the camera.",
+        "Here the two giraffes face away from the camera."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 33,
+    "image": "000000009480.jpg",
+    "captions": [
+        "Three people are sitting on the same side of the table.",
+        "Three people are sitting on two different sides of the table.",
+        "",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 34,
+    "image": "000000024675.jpg",
+    "captions": [
+        "The man looks to the left.",
+        "The man looks towards the camera.",
+        "The man is facing away from the camera.",
+        ""
+    ],
+    "answer": 2,
+    "type": "object_orientation"
+},
+{
+    "id": 35,
+    "image": "000000050142.jpg",
+    "captions": [
+        "The giraffe has its back to the direction of the little girl.",
+        "The giraffe is facing the direction of the little girl.",
+        "The giraffe turned sideways in the direction of the little girl.",
+        ""
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+},
+{
+    "id": 36,
+    "image": "000000024332.jpg",
+    "captions": [
+        "Only the front wall of the clock tower is visible.",
+        "Two walls of the clock tower can be seen in the picture.",
+        "Three walls of the clock tower are visible.",
+        "All the walls of the clock tower are visible."
+    ],
+    "answer": 1,
+    "type": "object_orientation"
+}
+]

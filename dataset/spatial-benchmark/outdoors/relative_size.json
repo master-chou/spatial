@@ -1,0 +1,327 @@
+[    
+{
+    "id": 1,
+    "image": "000000004760.jpg",
+    "captions": [
+        "The bench on the left is larger than the bench on the right.",
+        "The bench on the left is the same size as the bench on the right.",
+        "The bench on the left is smaller than the bench on the right.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 2,
+    "image": "000000004000.jpg",
+    "captions": [
+        "The mirror on the left is larger than the mirror on the right.",
+        "The mirror on the left is smaller than the mirror on the right.",
+        "The two mirrors are of the same size.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 3,
+    "image": "000000005036.jpg",
+    "captions": [
+        "The stop sign is taller than the wall next to it,",
+        "The stop sign is shorter than the wall next to it,",
+        "The stop sign and the wall next to it are of the same height.",
+        ""
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 4,
+    "image": "000000006045.jpg",
+    "captions": [
+        "The approximate height of the bus is 2m.",
+        "The approximate height of the bus is 3m.",
+        "The approximate height of the bus is 4m.",
+        "The approximate height of the bus is 6m."
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 5,
+    "image": "000000010700.jpg",
+    "captions": [
+        "The billboard on the left is the biggest.",
+        "All three stop signs are the same size.",
+        "The billboard on the right is the biggest.",
+        "The billboard in the middle is the biggest."
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 6,
+    "image": "000000012564.jpg",
+    "captions": [
+        "The two mirrors hanging above the sinks are the same size.",
+        "The mirror on the left is larger.",
+        "The mirror on the right is larger.",
+        ""
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 7,
+    "image": "000000020496.jpg",
+    "captions": [
+        "The person is taller than the refrigerator.",
+        "The refrigerator is taller than the person.",
+        "The person and the refrigerator are of the same height.",
+        ""
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 8,
+    "image": "000000021722.jpg",
+    "captions": [
+        "The total height of the luggage is approximately 4m.",
+        "The total height of the luggage is approximately 8m.",
+        "The total height of the luggage is approximately 15m.",
+        "The total height of the luggage is approximately 30m."
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 9,
+    "image": "000000034256.jpg",
+    "captions": [
+        "Both mirrors are of the same size.",
+        "The left mirror hanging on the wall is larger.",
+        "The mirror hanging right above the sink is larger.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 10,
+    "image": "000000045825.jpg",
+    "captions": [
+        "The glass on the left is taller.",
+        "The glass on the right is taller.",
+        "The two glasses are of same height.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 11,
+    "image": "000000011001.jpg",
+    "captions": [
+        "The blue fire hydrant is taller than the yellow taxi.",
+        "The blue fire hydrant is shorter than the yellow taxi.",
+        "The blue fire hydrant is as tall as the yellow taxi.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 12,
+    "image": "000000577614.jpg",
+    "captions": [
+        "The table on the left is the same width as the table on the right.",
+        "The table on the left is twice the size of the one on the right.",
+        "The table on the left is three times the size of the one on the right.",
+        "The table on the left is four times the size of the one on the right."
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 13,
+    "image": "000000580975.jpg",
+    "captions": [
+        "The motorcycle closest to the camera is the largest.",
+        "The motorcycles in the pictures are basically the same size.",
+        "The motorcycles furthest away from the camera are the biggest.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 14,
+    "image": "000000581332.jpg",
+    "captions": [
+        "The glass on the far left is the largest.",
+        "The glass on the far left is the smallest.",
+        "The glasses in the picture are all the same size.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 15,
+    "image": "000000045825.jpg",
+    "captions": [
+        "The glass on the left is taller.",
+        "The glass on the right is taller.",
+        "The two glasses are of same height.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 16,
+    "image": "000000429042.jpg",
+    "captions": [
+        "The yellow battery car is bigger than the red battery car.",
+        "The yellow battery car is smaller than the red battery car.",
+        "The size of the two battery cars in the picture is the same.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 17,
+    "image": "000000428712.jpg",
+    "captions": [
+        "The cake farther away is lower in height.",
+        "The two white cakes in the picture are almost the same height.",
+        "The cake farther away is taller in height.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 18,
+    "image": "000000427639.jpg",
+    "captions": [
+        "There is no room for anything else in this small room.",
+        "The small room can accommodate another dog of the same size.",
+        "This small room can accommodate three more dogs of the same size..",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 19,
+    "image": "000000015690.jpg",
+    "captions": [
+        "The elephant on the left is bigger than the elephant on the right.",
+        "The two elephants in the picture are roughly the same size.",
+        "The elephant on the left is smaller than the elephant on the right.",
+        ""
+    ],
+    "answer": 1,
+    "type": "relative_size"
+},
+{
+    "id": 20,
+    "image": "000000419854.jpg",
+    "captions": [
+        "The size of the bird standing taller is significantly smaller than that of the other bird.",
+        "The size of the bird standing taller is obviously much larger than the other bird.",
+        "The two birds in the picture are roughly the same size.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 21,
+    "image": "000000413260.jpg",
+    "captions": [
+        "The two lambs are of the same size.",
+        "The sheep on the left is obviously bigger.",
+        "The sheep on the right is obviously bigger.",
+        ""
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 22,
+    "image": "000000416240.jpg",
+    "captions": [
+        "The two giraffes in the picture are the same size",
+        "The giraffe closer to the camera is significantly larger than the other giraffe.",
+        "The giraffe farther away from the camera is significantly larger than the other giraffe.",
+        ""
+    ],
+    "answer": 3,
+    "type": "relative_size"
+},
+{
+    "id": 23,
+    "image": "000000411821.jpg",
+    "captions": [
+        "The bottom suitcase has the largest volume.",
+        "All suitcases has the same volume.",
+        "The top suitcase has the largest volume.",
+        "The middle suitcase has the largest volume."
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 24,
+    "image": "000000406729.jpg",
+    "captions": [
+        "The height of the street lights in the picture is basically the same.",
+        "The street light on the right is significantly higher.",
+        "The street light on the left is significantly higher.",
+        ""
+    ],
+    "answer": 0,
+    "type": "relative_size"
+},
+{
+    "id": 25,
+    "image": "000000402992.jpg",
+    "captions": [
+        "The cow on the left is lower in height than the cattle on the right.",
+        "The cow on the left is taller in height than the cattle on the right.",
+        "The height of the cattle in the pictures is basically the same.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 26,
+    "image": "000000400161.jpg",
+    "captions": [
+        "The leftmost pocket is the largest.",
+        "The rightmost pocket is the largest.",
+        "The four pockets in the picture are basically the same size.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_size"
+},
+{
+    "id": 27,
+    "image": "000000040253.jpg",
+    "captions": [
+        "The black ceramic vase on the right is the largest in volume.",
+        "The black ceramic vase on the left is the largest in volume.",
+        "All the black ceramic vases are of the same size.",
+        ""
+    ],
+    "answer": 2,
+    "type": "relative_spatial_position"
+}
+
+]

@@ -1,0 +1,143 @@
+1  (B) no
+1  (A) Yes
+0  (B) no
+1  A
+1  (A) Yes
+1  (A) Yes
+1  A
+0  (B) no
+1  A
+0  (B) no
+1  A
+1  (A) Yes
+1  (B) no
+0  (B) no
+0  (A) Yes
+0  (B) no
+1  (B) no
+1  (A) Yes
+0  (B) no
+0  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (B) no
+1  (B) no
+1  (A) Yes
+1  (B) no
+1  A
+1  (A) Yes
+1  A
+0  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (B) no
+0  (B) no
+1  (A) Yes
+1  A
+0  (B) no
+1  (B) no
+1  (B) no
+1  (A) Yes
+0  (A) Yes
+1  (B) no
+1  (B) no
+1  (B) no
+0  A
+1  (A) Yes
+0  A
+1  (B) no
+1  (A) Yes
+0  (A) Yes
+1  A
+1  A
+1  (B) no
+0  (A) Yes
+0  (A) Yes
+1  (A) Yes
+0  (B) no
+1  (A) Yes
+1  A
+1  (B) no
+0  A
+1  (A) Yes
+1  (A) Yes
+0  (A) Yes
+1  (B) no
+1  (A) Yes
+1  (B) no
+1  A
+1  (B) no
+1  A
+0  (B) no
+1  (B) no
+1  (B) no
+1  (B) no
+1  (B) no
+1  (B) no
+1  (B) no
+1  (A) Yes
+1  (B) no
+1  (A) Yes
+1  (A) Yes
+0  (B) no
+1  (B) no
+0  (B) no
+0  (B) no
+1  (A) Yes
+1  (B) no
+1  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (A) Yes
+1  (A) Yes
+1  (B) no
+1  A
+1  (A) Yes
+1  A
+0  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (A) Yes
+0  A
+0  (A) Yes
+1  (A) Yes
+1  A
+0  (B) no
+1  (A) Yes
+1  (B) no
+0  (A) Yes
+1  (B) no
+0  (B) no
+0  (A) Yes
+1  (B) no
+0  A
+0  (A) Yes
+0  A
+0  (A) Yes
+0  (A) Yes
+0  (A) Yes
+0  (A) Yes
+1  (B) no
+1  (B) no
+0  A
+1  (B) no
+1  (A) Yes
+1  A
+1  (B) no
+0  (B) no
+1  (A) Yes
+1  (A) Yes
+1  (A) Yes
+1  (B) no
+0  A
+1  (A) Yes
+0  (A) Yes
+1  (B) no
+1  (B) no
+1  A
+0  (A) Yes
+0  (A) Yes
+0  (A) Yes
